@@ -1,5 +1,7 @@
 # swift ui
 
+[출처](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+
 ````
     var body: some View {
         Text("Hello, World!") # text를 추가 할 수 있다
